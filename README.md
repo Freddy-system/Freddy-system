@@ -74,6 +74,6 @@ Entrego soluciones end‑to‑end: desde arquitectura y APIs hasta despliegue en
   </tr>
 </table>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddy-system&layout=compact&theme=material-palenight&hide_border=true&locale=es&custom_title=Lenguajes%20más%20usados" width="100%" alt="Lenguajes más usados" />
+<p  >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddy-system&layout=compact&theme=material-palenight&hide_border=true&locale=es&custom_title=Lenguajes%20más%20usados" width="50%" alt="Lenguajes más usados" />
 </p>
