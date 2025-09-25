@@ -2,21 +2,21 @@
 <!--  -->
 <img align="right" width=300px alt="Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg5Mmx0bTNoMTc3eXJqbG80cnA4a2xtOXZpbWl0a3Nyano1b2t1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" style="border-radius: 16px;" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;  ***Sobre mí***
 
-Soy **desarrollador de software** especializado en crear **aplicaciones móviles, web y sistemas** de alto impacto. Me enfoco en convertir ideas en productos reales, **rápidos, escalables y seguros**, integrando **Inteligencia Artificial** cuando potencia el negocio.
+Desarrollo **aplicaciones móviles, web y sistemas** listos para producción: **rápidos, escalables y seguros**.
 
-- **Frontend y Mobile:** React, Next.js, React Native  
+- **Frontend y Mobile:** React, React Native, Next.js  
 - **Backend:** PHP/Laravel, Node.js, Java/Spring Boot  
-- **Arquitectura e Infraestructura (DevOps/Cloud):** diseño de arquitectura de software, aprovisionamiento y administración de servidores (VPS/Cloud), contenedores (Docker), orquestación (Kubernetes), balanceo, escalado, monitoreo y observabilidad  
+- **Arquitectura e Infraestructura (DevOps/Cloud):** arquitectura de software; servidores VPS/Cloud; Docker/Kubernetes; balanceo, escalado, monitoreo y observabilidad  
 - **Ecosistema:** Git, Linux, CI/CD, APIs, bases de datos  
-- **IA y Automatización:** integración de modelos y flujos automatizados para optimizar procesos  
+- **IA y Automatización:** integración de modelos/servicios y flujos para acelerar tareas  
 
-Construyo soluciones de extremo a extremo: desde el diseño de arquitectura y APIs, hasta el despliegue en producción. Trabajo con estándares de calidad, pruebas, métricas y observabilidad para asegurar **rendimiento y mantenibilidad**.
+Entrego soluciones end‑to‑end: desde arquitectura y APIs hasta despliegue en producción, con pruebas, métricas y observabilidad para asegurar **rendimiento, seguridad y mantenibilidad**.
 
 - 📌 Disponible para colaborar en **proyectos, startups y consultorías**.  
-- 💬 Hablemos sobre **arquitectura, escalabilidad, APIs, performance y automatización con IA**.  
-- 📫 Contáctame: <a href="freddy.system.dev@gmail.com">freddy.system.dev@gmail.com</a>
+- 💬 Temas: **arquitectura, escalabilidad, APIs, performance, automatización e IA**.  
+- 📫 Contacto: <a href="freddy.system.dev@gmail.com">freddy.system.dev@gmail.com</a>
 
 ---
 
@@ -46,8 +46,8 @@ Construyo soluciones de extremo a extremo: desde el diseño de arquitectura y AP
 </span>
 
 ---
-
-<!-- ## Mis redes sociales  
+<!-- 
+ ## Mis redes sociales  
 
 <a href="https://www.instagram.com/freddy.system/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -63,18 +63,17 @@ Construyo soluciones de extremo a extremo: desde el diseño de arquitectura y AP
 
 <h2>Estadísticas de GitHub:</h2> 
 
-<p style="display: flex; justify-content: space-between;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=freddy-system&show_icons=true&hide_border=true&border_radius=12&locale=es&theme=material-palenight&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Estadísticas%20de%20GitHub&cache_seconds=14400"
-    width="320"
-    alt="Estadísticas de GitHub"
-  />
-  <img
-    src="https://streak-stats.vercel.app?user=freddy-system&theme=material-palenight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E&cache_seconds=14400&v=4"
-    width="320"
-    alt="Racha de contribuciones"
-  />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=freddy-system&show_icons=true&hide_border=true&border_radius=12&locale=es&theme=material-palenight&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Estadísticas%20de%20GitHub&cache_seconds=14400" width="320" alt="Estadísticas de GitHub" />
+    </td>
+    <td>
+      <img src="https://streak-stats.vercel.app?user=freddy-system&theme=material-palenight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E&cache_seconds=14400&v=4" width="320" alt="Racha de contribuciones" />
+    </td>
+  </tr>
+</table>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddy-system&layout=compact&theme=material-palenight&hide_border=true&locale=es&custom_title=Lenguajes%20más%20usados" width="100%" alt="Lenguajes más usados" />
 </p>
- 
- 
- 
