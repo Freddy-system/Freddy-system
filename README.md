@@ -47,19 +47,19 @@ Construyo soluciones de extremo a extremo: desde el diseño de arquitectura y AP
 
 ---
 
-## Mis redes sociales  
+<!-- ## Mis redes sociales  
 
-<a href="https://www.instagram.com/freddy.system/">
+<a href="https://www.instagram.com/freddy.system/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/@freddy.system" >
+<a href="https://www.tiktok.com/@freddy.system" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
 </a>
-<a href="https://www.youtube.com/@freddy-system">
+<a href="https://www.youtube.com/@freddy-system" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 
----
+--- -->
 
 <h2>Estadísticas de GitHub:</h2> 
 
