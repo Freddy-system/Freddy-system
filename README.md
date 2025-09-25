@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola, soy Freddy Sedano </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndxbTVva28weDl4eTJ5bnF2dnh3MHk0N2hyNnY2dnkwN2l6OG11MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" style="border-radius: 16px;" />
+<img align="right" width=300px alt="Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg5Mmx0bTNoMTc3eXJqbG80cnA4a2xtOXZpbWl0a3Nyano1b2t1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" style="border-radius: 16px;" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
@@ -63,5 +63,18 @@ Construyo soluciones de extremo a extremo: desde el diseño de arquitectura y AP
 
 <h2>Estadísticas de GitHub:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=freddy-system&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/freddy-system)  
-[![](https://github-readme-streak-stats.herokuapp.com/?user=freddy-system&theme=material-palenight)](https://github.com/freddy-system)
+<p style="display: flex; justify-content: space-between;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=freddy-system&show_icons=true&hide_border=true&border_radius=12&locale=es&theme=material-palenight&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Estadísticas%20de%20GitHub&cache_seconds=14400"
+    width="320"
+    alt="Estadísticas de GitHub"
+  />
+  <img
+    src="https://streak-stats.vercel.app?user=freddy-system&theme=material-palenight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E&cache_seconds=14400&v=4"
+    width="320"
+    alt="Racha de contribuciones"
+  />
+</p>
+ 
+ 
+ 
