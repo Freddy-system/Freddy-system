@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="#user-content-sobre-mí">Sobre mí</a> &nbsp;·&nbsp;
-  <a href="#user-content-proyectos-destacados">Proyectos</a> &nbsp;·&nbsp;
-  <a href="#user-content-tecnologías">Tecnologías</a> &nbsp;·&nbsp;
+  <a href="#user-content-sobre-mi">Sobre mí</a> &nbsp;·&nbsp;
+  <a href="#user-content-proyectos">Proyectos</a> &nbsp;·&nbsp;
+  <a href="#user-content-tecnologias">Tecnologías</a> &nbsp;·&nbsp;
   <a href="#user-content-actividad">Actividad</a> &nbsp;·&nbsp;
   <a href="mailto:freddy.system.dev@gmail.com">Escríbeme</a>
 </p>
 
-## Sobre mí
+<h2><a name="sobre-mi" href="#user-content-sobre-mi"><img src="assets/titulo-sobre-mi.svg" alt="Sobre mí" height="34"></a></h2>
 
 <img align="right" width="190" alt="Ilustración de un desarrollador depurando código" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg5Mmx0bTNoMTc3eXJqbG80cnA4a2xtOXZpbWl0a3Nyano1b2t1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 
@@ -25,7 +25,7 @@ Disponible para colaborar en proyectos, startups y consultorías.
 
 <br clear="right">
 
-## Proyectos destacados
+<h2><a name="proyectos" href="#user-content-proyectos"><img src="assets/titulo-proyectos.svg" alt="Proyectos destacados" height="34"></a></h2>
 
 <table>
   <tr>
@@ -65,7 +65,7 @@ Disponible para colaborar en proyectos, startups y consultorías.
   </tr>
 </table>
 
-## Tecnologías
+<h2><a name="tecnologias" href="#user-content-tecnologias"><img src="assets/titulo-tecnologias.svg" alt="Tecnologías" height="34"></a></h2>
 
 <table>
   <tr>
@@ -120,7 +120,7 @@ Disponible para colaborar en proyectos, startups y consultorías.
   </tr>
 </table>
 
-## Actividad
+<h2><a name="actividad" href="#user-content-actividad"><img src="assets/titulo-actividad.svg" alt="Actividad" height="34"></a></h2>
 
 <p align="center">
   <img width="600" alt="Racha de contribuciones en GitHub" src="https://streak-stats.vercel.app?user=freddy-system&theme=material-palenight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E&cache_seconds=14400&v=4">
