@@ -1,39 +1,27 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Freddy Sedano, Full Stack Developer. Software listo para producción: rápido, escalable y seguro.">
+  <img src="assets/encabezado.svg" width="100%" alt="Freddy Sedano, Full Stack Developer. Software listo para producción: rápido, escalable y seguro.">
 </p>
 
 <p align="center">
-  <a href="#user-content-sobre-mí"><img src="assets/nav-sobre-mi.svg?v=2" alt="Sobre mí" width="156" height="44"></a>
-  <a href="#user-content-proyectos-destacados"><img src="assets/nav-proyectos.svg?v=2" alt="Proyectos" width="156" height="44"></a>
-  <a href="#user-content-tecnologías"><img src="assets/nav-tecnologias.svg?v=2" alt="Tecnologías" width="156" height="44"></a>
-  <a href="#user-content-actividad"><img src="assets/nav-actividad.svg?v=2" alt="Actividad" width="156" height="44"></a>
-  <a href="mailto:freddy.system.dev@gmail.com"><img src="assets/nav-contacto.svg?v=2" alt="Escríbeme" width="156" height="44"></a>
+  <a href="#user-content-sobre-mí">Sobre mí</a> &nbsp;·&nbsp;
+  <a href="#user-content-proyectos-destacados">Proyectos</a> &nbsp;·&nbsp;
+  <a href="#user-content-tecnologías">Tecnologías</a> &nbsp;·&nbsp;
+  <a href="#user-content-actividad">Actividad</a> &nbsp;·&nbsp;
+  <a href="mailto:freddy.system.dev@gmail.com">Escríbeme</a>
 </p>
 
 ## Sobre mí
 
 <img align="right" width="190" alt="Ilustración de un desarrollador depurando código" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg5Mmx0bTNoMTc3eXJqbG80cnA4a2xtOXZpbWl0a3Nyano1b2t1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 
-<p>Construyo software <b>de principio a fin</b>: desde la arquitectura hasta el despliegue, y lo mantengo estable a medida que crece.</p>
+Construyo software **de principio a fin**: desde la arquitectura hasta el despliegue, y lo mantengo estable a medida que crece.
 
-<details open>
-  <summary><b>Web y móvil</b></summary>
-  <br>Interfaces y aplicaciones claras, pensadas para responder rápido en cualquier dispositivo.<br><br>
-      </details>
-<details>
-  <summary><b>Backend y APIs</b></summary>
-  <br>Sistemas y APIs sólidos, con bases de datos bien diseñadas y pruebas.<br><br>
-      </details>
-<details>
-  <summary><b>DevOps y cloud</b></summary>
-  <br>Servidores, contenedores, balanceo, escalado, monitoreo y observabilidad.<br><br>
-      </details>
-<details>
-  <summary><b>IA y automatización</b></summary>
-  <br>Integración de modelos y servicios, y flujos que aceleran tareas.<br><br>
-      </details>
+- **Web y móvil:** interfaces y aplicaciones claras y rápidas.
+- **Backend y APIs:** sistemas sólidos, con bases de datos bien diseñadas y pruebas.
+- **DevOps y cloud:** servidores, contenedores, escalado, monitoreo y observabilidad.
+- **IA y automatización:** integración de modelos y flujos que aceleran tareas.
 
-<p><b>Disponible</b> para colaborar en proyectos, startups y consultorías.</p>
+Disponible para colaborar en proyectos, startups y consultorías.
 
 <br clear="right">
 
