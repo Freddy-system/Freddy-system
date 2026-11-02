@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/encabezado.svg" width="100%" alt="Freddy Sedano, Full Stack Developer. Software listo para producción: rápido, escalable y seguro.">
+  <img src="assets/encabezado-codigo.svg" width="100%" alt="Freddy Sedano, Full Stack Developer. Software listo para producción: rápido, escalable y seguro.">
 </p>
 
 <p align="center">
