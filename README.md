@@ -3,25 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://hypercod.com"><img alt="Sitio web" src="https://img.shields.io/badge/hypercod.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"></a>
   <a href="mailto:freddy.system.dev@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Escríbeme-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"></a>
-  <img alt="Lima, Perú" src="https://img.shields.io/badge/Lima,%20Perú-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF">
 </p>
 
 ## Sobre mí
 
-<img align="right" width="250" alt="Ilustración de un desarrollador depurando código" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg5Mmx0bTNoMTc3eXJqbG80cnA4a2xtOXZpbWl0a3Nyano1b2t1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
+<img align="right" width="170" alt="Ilustración de un desarrollador depurando código" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg5Mmx0bTNoMTc3eXJqbG80cnA4a2xtOXZpbWl0a3Nyano1b2t1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 
-Desarrollo **aplicaciones móviles, web y sistemas** listos para producción: **rápidos, escalables y seguros**.
-
-Entrego soluciones de principio a fin: desde la arquitectura y las APIs hasta el despliegue, con pruebas, métricas y observabilidad para asegurar **rendimiento, seguridad y mantenibilidad**.
-
-- **Frontend y mobile:** interfaces web y aplicaciones móviles con React, React Native y Next.js.
-- **Backend:** APIs y sistemas con PHP/Laravel, Node.js/NestJS, Elixir, Rust y Java/Spring Boot; bases de datos PostgreSQL, MySQL y MongoDB.
-- **DevOps y cloud:** AWS y servidores VPS/Cloud, Docker y Kubernetes; balanceo, escalado, monitoreo y observabilidad.
-- **IA y automatización:** integración de modelos y servicios, y flujos para acelerar tareas.
-
-**Disponible para colaborar en proyectos, startups y consultorías.**
+Construyo aplicaciones web, móviles y sistemas de principio a fin: desde la arquitectura y las APIs hasta el despliegue, con pruebas, métricas y observabilidad que mantienen cada proyecto estable a medida que crece. También integro IA y automatización para acelerar tareas, y estoy disponible para colaborar en **proyectos, startups y consultorías**.
 
 <br clear="right">
 
