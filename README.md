@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="#user-content-sobre-mí"><img src="assets/nav-sobre-mi.svg?v=2" alt="Sobre mí" height="44"></a>
-  <a href="#user-content-proyectos-destacados"><img src="assets/nav-proyectos.svg?v=2" alt="Proyectos" height="44"></a>
-  <a href="#user-content-tecnologías"><img src="assets/nav-tecnologias.svg?v=2" alt="Tecnologías" height="44"></a>
-  <a href="#user-content-actividad"><img src="assets/nav-actividad.svg?v=2" alt="Actividad" height="44"></a>
-  <a href="mailto:freddy.system.dev@gmail.com"><img src="assets/nav-contacto.svg?v=2" alt="Escríbeme" height="44"></a>
+  <a href="#user-content-sobre-mí"><img src="assets/nav-sobre-mi.svg?v=2" alt="Sobre mí" width="156" height="44"></a>
+  <a href="#user-content-proyectos-destacados"><img src="assets/nav-proyectos.svg?v=2" alt="Proyectos" width="156" height="44"></a>
+  <a href="#user-content-tecnologías"><img src="assets/nav-tecnologias.svg?v=2" alt="Tecnologías" width="156" height="44"></a>
+  <a href="#user-content-actividad"><img src="assets/nav-actividad.svg?v=2" alt="Actividad" width="156" height="44"></a>
+  <a href="mailto:freddy.system.dev@gmail.com"><img src="assets/nav-contacto.svg?v=2" alt="Escríbeme" width="156" height="44"></a>
 </p>
 
 ## Sobre mí
