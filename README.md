@@ -16,7 +16,19 @@ Entrego soluciones end‑to‑end: desde arquitectura y APIs hasta despliegue en
 
 - 📌 Disponible para colaborar en **proyectos, startups y consultorías**.  
 - 💬 Temas: **arquitectura, escalabilidad, APIs, performance, automatización e IA**.  
-- 📫 Contacto: <a href="freddy.system.dev@gmail.com">freddy.system.dev@gmail.com</a>
+- 📫 Contacto: <a href="mailto:freddy.system.dev@gmail.com">freddy.system.dev@gmail.com</a>
+
+---
+
+## Proyectos destacados
+
+| Proyecto | Qué hace | Tecnología |
+|---|---|---|
+| [**File Editor & Viewer**](https://github.com/Freddy-system/file-editor-viewer) | Ve y edita archivos desde la terminal: Markdown con Mermaid, Graphviz y LaTeX, código resaltado e imágenes. | Rust |
+| [**Zen Tab Sleep**](https://github.com/Freddy-devs/zen-tab-sleep) | Extensión que suspende pestañas sin uso y libera RAM en Chrome, Brave y Edge, con reglas por página, sitio o ventana. | JavaScript |
+| [**arch-zen-niri**](https://github.com/Freddy-devs/arch-zen-niri-dotfiles) | Un solo script convierte un Arch Linux recién instalado en un escritorio mínimo con linux-zen, niri y SDDM. | Python, Shell |
+| [**Dark Pirate SDDM**](https://github.com/Freddy-system/dark-pirate-sddm) | Tema oscuro y configurable para la pantalla de inicio de sesión en Linux. | QML |
+| [**Árbol genealógico API**](https://github.com/Freddy-system/arbol-genealogico-laravel12) | API para gestionar personas, ancestros, descendientes y parentescos. | Laravel 12 |
 
 ---
 
@@ -32,6 +44,7 @@ Entrego soluciones end‑to‑end: desde arquitectura y APIs hasta despliegue en
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 </span>
 
 <h4> Frameworks y Herramientas </h4>
@@ -41,6 +54,7 @@ Entrego soluciones end‑to‑end: desde arquitectura y APIs hasta despliegue en
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
 </span>
@@ -61,19 +75,8 @@ Entrego soluciones end‑to‑end: desde arquitectura y APIs hasta despliegue en
 
 --- -->
 
-<h2>Estadísticas de GitHub:</h2> 
+## Actividad en GitHub
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=freddy-system&show_icons=true&hide_border=true&border_radius=12&locale=es&theme=material-palenight&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Estadísticas%20de%20GitHub&cache_seconds=14400" width="320" alt="Estadísticas de GitHub" />
-    </td>
-    <td>
-      <img src="https://streak-stats.vercel.app?user=freddy-system&theme=material-palenight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E&cache_seconds=14400&v=4" width="320" alt="Racha de contribuciones" />
-    </td>
-  </tr>
-</table>
-
-<p  >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddy-system&layout=compact&theme=material-palenight&hide_border=true&locale=es&custom_title=Lenguajes%20más%20usados" width="50%" alt="Lenguajes más usados" />
+<p align="center">
+  <img src="https://streak-stats.vercel.app?user=freddy-system&theme=material-palenight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E&cache_seconds=14400&v=4" width="320" alt="Racha de contribuciones" />
 </p>
