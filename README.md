@@ -3,16 +3,42 @@
 </p>
 
 <p align="center">
-  <a href="mailto:freddy.system.dev@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Escríbeme-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"></a>
+  <a href="#sobre-mí"><img src="assets/nav-sobre-mi.svg" alt="Sobre mí" height="44"></a>
+  <a href="#proyectos-destacados"><img src="assets/nav-proyectos.svg" alt="Proyectos" height="44"></a>
+  <a href="#tecnologías"><img src="assets/nav-tecnologias.svg" alt="Tecnologías" height="44"></a>
+  <a href="#actividad"><img src="assets/nav-actividad.svg" alt="Actividad" height="44"></a>
+  <a href="mailto:freddy.system.dev@gmail.com"><img src="assets/nav-contacto.svg" alt="Escríbeme" height="44"></a>
 </p>
 
 ## Sobre mí
 
-<img align="right" width="170" alt="Ilustración de un desarrollador depurando código" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg5Mmx0bTNoMTc3eXJqbG80cnA4a2xtOXZpbWl0a3Nyano1b2t1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
-
-Construyo aplicaciones web, móviles y sistemas de principio a fin: desde la arquitectura y las APIs hasta el despliegue, con pruebas, métricas y observabilidad que mantienen cada proyecto estable a medida que crece. También integro IA y automatización para acelerar tareas, y estoy disponible para colaborar en **proyectos, startups y consultorías**.
-
-<br clear="right">
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <p>Construyo software <b>de principio a fin</b>: desde la arquitectura hasta el despliegue, y lo mantengo estable a medida que crece.</p>
+      <details open>
+        <summary><b>Web y móvil</b></summary>
+        <br>Interfaces y aplicaciones claras, pensadas para responder rápido en cualquier dispositivo.<br><br>
+      </details>
+      <details>
+        <summary><b>Backend y APIs</b></summary>
+        <br>Sistemas y APIs sólidos, con bases de datos bien diseñadas y pruebas.<br><br>
+      </details>
+      <details>
+        <summary><b>DevOps y cloud</b></summary>
+        <br>Servidores, contenedores, balanceo, escalado, monitoreo y observabilidad.<br><br>
+      </details>
+      <details>
+        <summary><b>IA y automatización</b></summary>
+        <br>Integración de modelos y servicios, y flujos que aceleran tareas.<br><br>
+      </details>
+      <blockquote><b>Disponible</b> para colaborar en proyectos, startups y consultorías.</blockquote>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img width="230" alt="Ilustración de un desarrollador depurando código" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg5Mmx0bTNoMTc3eXJqbG80cnA4a2xtOXZpbWl0a3Nyano1b2t1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
+    </td>
+  </tr>
+</table>
 
 ## Proyectos destacados
 
